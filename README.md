@@ -1,6 +1,6 @@
 # Python Basics
 
-https://github.com/subodhkvg/python/tree/master
+https://github.com/subodhkvg/python/blob/master/Python/Python_Basic.ipynb
 
 Arithmetic Operations
 
