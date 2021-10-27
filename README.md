@@ -6,7 +6,7 @@ Arithmetic Operations
 
 Typecasting
 
-#EDA
+# EDA
 
 Placement analysis based on CGPA and IQ
 
